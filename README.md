@@ -1,21 +1,7 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 
-
-# Laravel 9 Multi Auth System using laravel/breeze package
-
-
-## Login page
-![alt text](https://prnt.sc/V25-q7bo90Aq)
-
-
-## Dashboard page
-![alt text](https://prnt.sc/lf63MnY1L8Mx)
-
-
-
-
-## Laravel9  (Admin and User)
+## Laravel  (Admin and User)
 - Admin Login
 - User Login and Register
 
