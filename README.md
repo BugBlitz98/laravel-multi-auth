@@ -6,27 +6,23 @@
 
 
 ## Login page
-![alt text](https://github.com/AjayYadavAi/laravel-9-multi-auth-system/blob/main/login.png?raw=true)
-
-
-## Register page
-![alt text](https://github.com/AjayYadavAi/laravel-9-multi-auth-system/blob/main/register.png?raw=true)
+![alt text](https://prnt.sc/V25-q7bo90Aq)
 
 
 ## Dashboard page
-![alt text](https://github.com/AjayYadavAi/laravel-9-multi-auth-system/blob/main/dashboard.png?raw=true)
+![alt text](https://prnt.sc/lf63MnY1L8Mx)
 
 
 
 
-## Laravel9 + Tailwind Css with Multi-Auth (Admin and User)
+## Laravel9  (Admin and User)
 - Admin Login
 - User Login and Register
 
 
 ## How to run the code
-- git clone https://github.com/AjayYadavAi/laravel-9-multi-auth-system.git
-- cd laravel-9-multi-auth-system
+- git clone https://github.dev/BugBlitz98/laravel-multi-auth.git
+- cd laravel-multi-auth
 - cp .env.example `.env`
 - open .env and update DB_DATABASE (database details)
 - run : `composer install`
@@ -34,7 +30,7 @@
 - run : `php artisan migrate:fresh --seed`
 - run : `php artisan serve`
 
-- Best of luck 
+- Happy Coding
 
 
 ## Credentials
